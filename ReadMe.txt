@@ -9,6 +9,10 @@ shape predictor to get the right landmarks.
 
 REQUIREMENTS:
 
+DOWNLOAD THE SHAPE PREDICTOR FROM THE LINK:
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+and put it in with the rest of the files
+
 0.
 Remeber to close the image window only using key 'q'
 Closing it using the mouse or any other thing, wont let the image pop back up
