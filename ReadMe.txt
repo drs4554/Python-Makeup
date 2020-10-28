@@ -9,14 +9,14 @@ shape predictor to get the right landmarks.
 
 REQUIREMENTS:
 
-DOWNLOAD THE SHAPE PREDICTOR FROM THE LINK:
+DOWNLOAD THE SHAPE PREDICTOR FROM THE LINK and UNZIP it:
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 and put it in with the rest of the files
 
 0.
 Remeber to close the image window only using key 'q'
-Closing it using the mouse or any other thing, wont let the image pop back up
-again, until 30s
+Closing it using the mouse or any other thing wont let the image pop back up
+again, until 30s, even if you run it again.
 
 1.
 For the google API to work the user needs to put in a credentials.json
@@ -32,6 +32,8 @@ Download the client config and put it in the maindirectory
 You need the following packages and libraries in python
 
 (Note that some of these may need cmake and gcc to work preoperly)
+pip install cmake
+pip install gcc
 
 pip install opencv-python
 pip install dlib
