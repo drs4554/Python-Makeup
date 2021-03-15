@@ -42,4 +42,4 @@ pip install oauth2client
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 Name: Dhaval Shrishrimal
-Email: dhavalshrishrimaal@gmail.com / drs4554@rit.edu
+Email: dhavalshrishrimal@gmail.com / drs4554@rit.edu
